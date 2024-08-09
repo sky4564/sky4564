@@ -32,11 +32,11 @@
 <p align="center" display="inline-block">
     💡Language <br>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">     
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 <p align="center" display="inline-block">
     💡frontend <br>
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-    
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
