@@ -49,7 +49,9 @@
 </p>
 <p align="center" display="inline-block">
     💡DevOps <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">    
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" >
+    <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" >
 </p>
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
