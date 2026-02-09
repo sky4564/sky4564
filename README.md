@@ -40,10 +40,8 @@
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=VSCODE IDEA&logoColor=white">
-    <img src= "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    
+    <img src= "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
