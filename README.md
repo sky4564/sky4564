@@ -45,6 +45,7 @@
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
+    <img src= "https://img.shields.io/badge/SuperBase-000000?style=for-the-badge&logo=SuperBase&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DevOps <br>
